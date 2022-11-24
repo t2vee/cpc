@@ -4,12 +4,12 @@
 	"discordRpc": {
 		"enable": true,
 		"discordAppId": "",
-		"activityTitle": "Secret Agency Club Penguin",
-		"activityDescription": "Jugando club penguin!",
+		"activityTitle": "",
+		"activityDescription": "",
 		"buttons": [
 			{
-				"label": "Unirse al servidor",
-				"url": "https://discord.gg/g3ZbCmShD4"
+				"label": "",
+				"url": ""
 			}
 		]
 	},
