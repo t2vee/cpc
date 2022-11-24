@@ -1,0 +1,20 @@
+{
+	"mainURL": "https://play.acp.pw",
+	"repositoryName": "",
+	"discordRpc": {
+		"enable": true,
+		"discordAppId": "",
+		"activityTitle": "Secret Agency Club Penguin",
+		"activityDescription": "Jugando club penguin!",
+		"buttons": [
+			{
+				"label": "Unirse al servidor",
+				"url": "https://discord.gg/g3ZbCmShD4"
+			}
+		]
+	},
+	"windowSettings": {
+		"width": 1280,
+		"height": 720
+	}
+}
